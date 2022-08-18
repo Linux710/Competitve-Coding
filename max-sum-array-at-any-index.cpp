@@ -29,7 +29,7 @@ int sum=0;
 	    
 	}
 	
-	return sum; //answer
+	return sum; //max sum
 }
 
 
