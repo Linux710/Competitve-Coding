@@ -13,7 +13,7 @@ int main() {
     }
     
     const int N=1e6+2;
-    int idx[N];
+    int idx[N];//
     
     for(int j=0 ; j<N ; j++)
     {
